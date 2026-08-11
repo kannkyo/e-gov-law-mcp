@@ -9,10 +9,10 @@
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
-    "esbuild": "^0.21.5",
+    "esbuild": "^0.28.2",
     "tsx": "^4.23.12",
     "typescript": "^5.6.0",
-    "vitest": "^2.1.0"
+    "vitest": "^4.1.10"
   },
   "homepage": "https://github.com/kannkyo/e-gov-law-mcp",
   "name": "e-gov-law-mcp-server",
