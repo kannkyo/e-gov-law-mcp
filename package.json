@@ -5,14 +5,14 @@
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.12.0",
-    "zod": "^3.24.0"
+    "zod": "^4.4.3"
   },
   "devDependencies": {
-    "@types/node": "^22.0.0",
-    "esbuild": "^0.21.5",
+    "@types/node": "^26.2.0",
+    "esbuild": "^0.28.2",
     "tsx": "^4.23.12",
-    "typescript": "^5.6.0",
-    "vitest": "^2.1.0"
+    "typescript": "^7.0.2",
+    "vitest": "^4.1.10"
   },
   "homepage": "https://github.com/kannkyo/e-gov-law-mcp",
   "name": "e-gov-law-mcp-server",
@@ -26,5 +26,8 @@
     "typecheck": "tsc -p tsconfig.json --noEmit"
   },
   "type": "module",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "allowScripts": {
+    "esbuild@0.28.2": true
+  }
 }
