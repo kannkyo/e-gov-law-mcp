@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "e-gov-law-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "github:kannkyo/e-gov-law-mcp"
+      ],
+      "type": "stdio"
+    }
+  }
+}

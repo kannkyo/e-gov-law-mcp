@@ -1,0 +1,11 @@
+{
+  "name": "e-gov-law-mcp",
+  "description": "e-Gov 法令API v2 をラップし、日本の法令の検索・本文取得・改正履歴確認・引用を行うMCPサーバーとスキル",
+  "version": "0.1.0",
+  "author": {
+    "name": "kannkyo"
+  },
+  "homepage": "https://github.com/kannkyo/e-gov-law-mcp",
+  "repository": "https://github.com/kannkyo/e-gov-law-mcp.git",
+  "license": "MIT"
+}

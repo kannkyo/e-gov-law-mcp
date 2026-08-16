@@ -4,6 +4,19 @@
 
 ## セットアップ
 
+### Claude Code プラグインとして
+
+このリポジトリ自体が Claude Code のマーケットプレイスを兼ねています。
+
+```
+/plugin marketplace add kannkyo/e-gov-law-mcp
+/plugin install e-gov-law-mcp
+```
+
+MCPサーバー（`e-gov-law-mcp`）と、法令調査の手順をまとめたスキル（`legal-e-gov-law`）が一緒にインストールされます。
+
+### MCPサーバー単体として
+
 Node.js が必要です。
 
 ```bash
