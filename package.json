@@ -4,7 +4,7 @@
     "e-gov-law-mcp": "dist/index.js"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.12.0",
+    "@modelcontextprotocol/sdk": "^1.32.0",
     "zod": "^4.4.3"
   },
   "devDependencies": {
