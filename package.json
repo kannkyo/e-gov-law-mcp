@@ -12,7 +12,7 @@
     "esbuild": "^0.28.2",
     "tsx": "^4.23.12",
     "typescript": "^7.0.2",
-    "vitest": "^4.1.10"
+    "vitest": "^4.1.12"
   },
   "homepage": "https://github.com/kannkyo/e-gov-law-mcp",
   "name": "e-gov-law-mcp-server",
